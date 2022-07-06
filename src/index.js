@@ -1,4 +1,4 @@
-const cities = ['CDMX', 'Bogota', 'Lima', 'Guadalajara', 'Buenos Aires'];
+const cities = ['CDMX', 'Bogota', 'Lima', 'Guadalajara', 'Buenos Aires', 'Hermosillo'];
 
 const randomString = () => {
   const string = cities[Math.floor(Math.random() * cities.length)];
